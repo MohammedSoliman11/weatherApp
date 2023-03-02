@@ -1,0 +1,10 @@
+body{
+    margin:0;
+    text-align: center;
+    background-image: url(img/cloud-blue-sky.jpg);
+    background-size:250vh;
+    background-repeat: no-repeat;
+}
+div{
+    margin: 25px;
+}
